@@ -1,0 +1,17 @@
+
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+#map {
+height: 100%;
+}
+#titleMap {
+background-color:lightgray;
+color: #FFAA0F;
+font-family:courier new;
+font-size:100%;
+border:5px solid gray;
+padding:50px;  
+}
